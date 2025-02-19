@@ -1,0 +1,16 @@
+your-project-folder/
+│
+├── index.html
+├── app.js
+│
+├── styles/
+│ └── main.css
+│
+├── components/
+│ ├── Header.js
+│ ├── PlanForm.js
+│ ├── PlanResult.js
+│ └── LoadingSpinner.js
+│
+└── utils/
+└── planGenerator.js
